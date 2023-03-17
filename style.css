@@ -1,5 +1,5 @@
 /* reset */
-* {
+/* * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -21,7 +21,7 @@ a {
 html {
   font-size: 16px;
   font-family: var(--font1);
-}
+} */
 
 /* reset */
 
@@ -49,6 +49,7 @@ html {
 }
 
 /* variables */
+
 #container {
   --target: 100%;
   width: 100%;
